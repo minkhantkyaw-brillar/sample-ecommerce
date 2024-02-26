@@ -16,11 +16,7 @@ const Navbar = () => {
   return (
     <nav className="grid grid-cols-2 p-4 border-b font-semibold h-18">
       <h1 className="font-bold text-3xl uppercase flex items-center justify-start px-4 tracking-wider">
-<<<<<<< HEAD
-        <a href="/">test</a>
-=======
-        <a href="/">hello</a>
->>>>>>> 281add2700ef9b1ed47cd875a5fabe46b731b192
+        <a href="/">world</a>
       </h1>
       {user ? (
         <div className="flex justify-end items-center px-4 text-md md:text-lg">
